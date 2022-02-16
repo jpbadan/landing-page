@@ -3,11 +3,9 @@
 ![](https://img.shields.io/github/last-commit/jpbadan/personal-website?logo=github) 
 ![](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 
-### A simple and minimal landing page for myself.
+### A simple and minimal landing page for myself. [Live preview](https://jpbadan.com)
 
 <a href="https://jpbadan.com"><img src="resources/screenshot.png" width="600"></a>
-
-You can find a live preview [here](https://jpbadan.com)
 
 ## Why?
 
