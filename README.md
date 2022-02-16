@@ -1,28 +1,31 @@
 # Personal Landing Page
 
-Just a Minimal landing page for developers.
+![](https://img.shields.io/github/last-commit/jpbadan/personal-website?logo=github)
+![](https://img.shields.io/badge/completion-100%25-green)
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+![](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 
-## Why? [![start with why](https://img.shields.io/badge/<HEY>-<PUTTERSON>-<RED>)
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+A minimal landing page for myself.
 
-## Themes
+It contains contact information and my resume. 
 
-Dev Landing Page comes in 9 **material themes**.
+You can check a live preview [here](https://jpbadan.com)
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
+## Why?
 
-## GitHub Pages
+I wanted simple landing page to showcase my contact information and my resume. I wanted it to be minimal and right to the point rather beautiful and hefty. 
+
+The final product is simple, and easily customizable.
+
+
+## Deploy
 
 GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
 
-If you already have a GitHub profile (obviously)
+If you already have a GitHub profile:
 
 * Create a new repo with the name `{username}.github.io`
 * Clone/Fork this repo and copy the files to your newly created repo
@@ -31,12 +34,15 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-### Custom Domain
-
 If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
+
+Here's my own **Personal Landing Page** - [jpbadan.com](https://jpbadan.com)
+
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © Jpbadan
+
+---
+
+_Made with ❤️ in Toulouse 🛫_
