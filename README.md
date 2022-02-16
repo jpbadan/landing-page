@@ -5,7 +5,7 @@
 
 ### A simple and minimal landing page for myself.
 
-<img src="resources/screenshot.png" width="600">
+<a href="https://jpbadan.com"><img src="resources/screenshot.png" width="600"></a>
 
 You can find a live preview [here](https://jpbadan.com)
 
