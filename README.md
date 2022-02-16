@@ -1,18 +1,13 @@
 # Personal Landing Page
 
-![](https://img.shields.io/github/last-commit/jpbadan/personal-website?logo=github)
-![](https://img.shields.io/badge/completion-100%25-green)
-
+![](https://img.shields.io/github/last-commit/jpbadan/personal-website?logo=github) 
 ![](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 
+### A simple and minimal landing page for myself.
 
+<img src="resources/screenshot.png" width="600">
 
-A minimal landing page for myself.
-
-It contains contact information and my resume. 
-
-You can check a live preview [here](https://jpbadan.com)
-
+You can find a live preview [here](https://jpbadan.com)
 
 ## Why?
 
@@ -38,11 +33,14 @@ If you want to make your new landing page available under a domain like `{userna
 
 Here's my own **Personal Landing Page** - [jpbadan.com](https://jpbadan.com)
 
+## Tips
+
+During this project I discovered [Real favicon generator](https://realfavicongenerator.net) which was a real time saver when dealing with favicons for multiple browsers
 
 ## License
 
-MIT © Jpbadan
+![](https://img.shields.io/badge/licence-MIT-blue)
+![](https://img.shields.io/badge/completion-100%25-green)
 
----
 
 _Made with ❤️ in Toulouse 🛫_
